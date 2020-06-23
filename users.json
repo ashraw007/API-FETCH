@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "Name":"Ashish Rawat",
+        "Email":"ashishrawat98@gmail.com"
+    },
+    
+    {
+        "id":2,
+        "Name":"Shlok Kaushik",
+        "Email":"kaushikshlok78@gmail.com"
+    },
+
+    {
+        "id":3,
+        "Name":"Garvit Vij",
+        "Email":"garvvij007@gmail.com"
+    }
+]
